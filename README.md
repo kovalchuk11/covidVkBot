@@ -1,1 +1,2 @@
-# covidVkBot
+BotOnJavaSDK
+
